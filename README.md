@@ -18,9 +18,10 @@ https://drive.google.com/file/d/1i6zOZNrpXjZBURTo3TUj1OUnkzYt9tfq/view?usp=shari
 - [Model Architecture](#model-architecture)
 - [Project Structure](#project-structure)
 - [Installation](#installation)
-- [Streamlit Web App](#Streamlit Web App)
+- [Streamkit Web App](#Streamlit-Web-App)
 - [Results](#results)
-- [Usage](#usage)
+- [Limitations](#Limitations)
+
 
 ---
 
