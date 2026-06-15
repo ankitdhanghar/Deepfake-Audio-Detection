@@ -234,6 +234,11 @@ Upload a `.wav`, `.mp3`, or `.flac` file through the browser interface to get an
 | F1 Score  | 0.93     | 0.95     | 0.89    |
 | Accuracy  | 86.93%   |  90.04%  | 88.51%  |
 
+| Metric    | Overall  | 
+|-----------|----------|
+|  Accuracy | 88.51%   | 
+|    EER    | 11.53%   |
+
 ---
 
 ## Limitations
