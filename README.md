@@ -3,6 +3,10 @@
 A machine learning pipeline to detect AI-generated (deepfake) audio from genuine human speech using MFCC feature extraction and a Random Forest classifier.
 
 ---
+Demo video
+https://drive.google.com/file/d/1i6zOZNrpXjZBURTo3TUj1OUnkzYt9tfq/view?usp=sharing
+
+---
 
 ## Table of Contents
 
