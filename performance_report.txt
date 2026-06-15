@@ -1,0 +1,16 @@
+================ FINAL EVALUATION REPORT ================
+Model Evaluated: Random Forest
+Overall Accuracy: 88.52%
+F1 Score:         89.00%
+Equal Error Rate: 11.53%
+Per-Class Accuracy:
+  - Genuine (Real) Speech: 86.93%
+  - Deepfake (Fake) Speech: 90.04%
+
+Confusion Matrix:
+               Predicted Real | Predicted Fake
+Actual Real :  1968          | 296            
+Actual Fake :  236           | 2134         
+========================================================
+
+Note: F1-score , accuracy ,EER and Confusion matrix are shown here are for overall data..
